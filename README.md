@@ -1,2 +1,2 @@
 # Phần mềm quản lý thi đấu bóng đá dành cho đối tượng học sinh - sinh viên (Project 1)
-https://drive.google.com/drive/u/0/folders/16hxjHjau4KUoB2YOh6q45LBo36in2QVu
+Là phần mềm thi đấu bóng đá dành cho đối tượng học sinh sinh viên, sử dụng winforms và SQL Server để thực hiện dự án. Đây là Project 1
