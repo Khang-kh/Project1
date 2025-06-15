@@ -1,0 +1,883 @@
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.Form1.resources
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.UserControl_LichThiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.UserControl_GiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.UserControl_Doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.UserControl_Cauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\quanly\quanly\obj\Debug\quanly.UserControl_Baibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.Form1.resources
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.UserControl_Baibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.UserControl_Cauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.UserControl_Doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.UserControl_GiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.UserControl_LichThiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\check\quanly\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.Form1.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Baibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Cauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.UserControl_GiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.UserControl_LichThiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.FormGiaodienchinhQuanly.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Searching.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\bin\Debug\System.ValueTuple.xml
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.Form1.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.FormGiaodienchinhQuanly.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Baibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Cauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.UserControl_GiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.UserControl_LichThiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.UserControl_Searching.resources
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\project1\testlai\giaodienchinh\quanly\obj\Debug\quanly.exe.config
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\quanly.exe.config
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\quanly.exe
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\quanly.pdb
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Buffers.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Memory.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.ValueTuple.dll
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Buffers.xml
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Memory.xml
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project1\giaodienchinh (2)\quanly\bin\Debug\System.ValueTuple.xml
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.exe.config
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.UserControl_Baibao.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.UserControl_Cauthu.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.UserControl_Doibong.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.UserControl_GiaiDau.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.UserControl_LichThiDau.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.UserControl_Searching.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.exe
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.pdb
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Project1\giaodienchinh (2)\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Project1\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Project1\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Project1\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Project1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Project1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Project1\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Project1\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Project1\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Project1\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Project1\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project1\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Project1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Project1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Project1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Project1\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Project1\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Project1\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Project1\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Project1\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project1\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.UserControl_Baibao.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.UserControl_Cauthu.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.UserControl_Doibong.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.UserControl_GiaiDau.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.UserControl_LichThiDau.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.UserControl_Searching.resources
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Project1\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_Cauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_Doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_GiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_LichThiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_Searching.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UCcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_Doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_GiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_LichThiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_Searching.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UCcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode8.5\menu_trangchu_cauthu_daugiai\menu_trangchu\ghepcode\quanly\obj\Debug\quanly.tournament.FormXemchitietdoibong.resources
+C:\Project 1\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Project 1\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Project 1\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Project 1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Project 1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Project 1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Project 1\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Project 1\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project 1\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UCcauthu.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.tournament.FormXemchitietdoibong.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Project 1\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project1\ghepcode\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthu.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.tournament.FormXemchitietdoibong.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Project1\ghepcode\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project 1\ghepcode\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthu.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.tournament.FormXemchitietdoibong.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Project 1\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthu_doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormChitietdoibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQuanLyDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormThemDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthucuadoibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Club.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_RankItem_doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.tournament.FormXemchitietdoibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\ghepcode\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthu_doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.schedule.AddnewSchedule.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.schedule.FormQuanlylichthidau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.schedule.FormTaoDoiHinh.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.schedule.UC_Schedule.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.schedule.Xemchitietdoihinh.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.schedule.XemchitietSchedule.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormChitietdoibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQuanLyDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormThemDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCcauthucuadoibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Club.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_RankItem_doibong.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.schedule.EditSchedule.resources
+C:\Users\acer\OneDrive\Desktop\project1\rapcode21.5\da ghep doi bong\ghepcode\ghepcode\quanly\obj\Debug\quanly.tournament.Lichthidau_giaidau.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\bin\Debug\System.ValueTuple.xml
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UCcauthu_doibong.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.schedule.AddnewSchedule.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.schedule.EditSchedule.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.schedule.FormQuanlylichthidau.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.schedule.FormTaoDoiHinh.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.schedule.UC_Schedule.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.schedule.Xemchitietdoihinh.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.schedule.XemchitietSchedule.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormChitietdoibong.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormQuanLyDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormThemDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UCcauthucuadoibong.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UC_Club.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UC_RankItem_doibong.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.tournament.Lichthidau_giaidau.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\ghepcode\quanly\obj\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\quanly.pdb
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\bin\Debug\System.ValueTuple.xml
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.exe.config
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UCcauthu_doibong.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.schedule.AddnewSchedule.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.schedule.EditSchedule.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.schedule.FormQuanlylichthidau.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.schedule.FormTaoDoiHinh.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.schedule.UC_Schedule.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.schedule.Xemchitietdoihinh.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.schedule.XemchitietSchedule.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormChitietdoibong.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormQuanLyDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormSuaHoSoDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormThemDoiBong.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UCcauthucuadoibong.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UC_Club.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UC_RankItem_doibong.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.tournament.Lichthidau_giaidau.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.exe
+C:\Users\acer\OneDrive\Desktop\codefinal\quanly\obj\Debug\quanly.pdb
+C:\Project1\codefinal\quanly\bin\Debug\quanly.exe.config
+C:\Project1\codefinal\quanly\bin\Debug\quanly.exe
+C:\Project1\codefinal\quanly\bin\Debug\quanly.pdb
+C:\Project1\codefinal\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project1\codefinal\quanly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Project1\codefinal\quanly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Project1\codefinal\quanly\bin\Debug\System.Buffers.dll
+C:\Project1\codefinal\quanly\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Project1\codefinal\quanly\bin\Debug\System.Memory.dll
+C:\Project1\codefinal\quanly\bin\Debug\System.Numerics.Vectors.dll
+C:\Project1\codefinal\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project1\codefinal\quanly\bin\Debug\System.ValueTuple.dll
+C:\Project1\codefinal\quanly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Project1\codefinal\quanly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Project1\codefinal\quanly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Project1\codefinal\quanly\bin\Debug\System.Buffers.xml
+C:\Project1\codefinal\quanly\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Project1\codefinal\quanly\bin\Debug\System.Memory.xml
+C:\Project1\codefinal\quanly\bin\Debug\System.Numerics.Vectors.xml
+C:\Project1\codefinal\quanly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project1\codefinal\quanly\bin\Debug\System.ValueTuple.xml
+C:\Project1\codefinal\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Project1\codefinal\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+C:\Project1\codefinal\quanly\obj\Debug\quanly.exe.config
+C:\Project1\codefinal\quanly\obj\Debug\quanly.AddnewAdmin.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.AddnewBlog.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.AdminDetailForm.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.BlogDetailForm.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.BlogDetailForm_trangchu.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.EditAdminForm.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.EditBlog.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormQLPlayer.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.Suacauthu.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.Themcauthu.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.Thongtinchitietcauthu.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UCcauthu_doibong.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UCcauthutrangchu.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UC_Lichthidau_Player.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormPQ.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormBaibao.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.giaodienchinh.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.menuquanly.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.schedule.AddnewSchedule.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.schedule.EditSchedule.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.schedule.FormQuanlylichthidau.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.schedule.FormTaoDoiHinh.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.schedule.UC_Schedule.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.schedule.Xemchitietdoihinh.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.schedule.XemchitietSchedule.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormChitietdoibong.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormQuanLyDoiBong.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormSuaHoSoDoiBong.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormThemDoiBong.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UCcauthucuadoibong.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UC_Club.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UC_RankItem_doibong.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormBangXepHang.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormQuanLyGiaiDau.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormSuaHoSoGiaiDau.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormTaoHoSoGiaiDau.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.FormXemHoSoGiaiDau.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.tournament.Lichthidau_giaidau.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UCTournamentItem.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UCTournamentItem_trangchu.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UC_RankItem.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UC_Admin.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UC_Blog1.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UC_Blog_trangchu.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.UserControl_Dangnhap.resources
+C:\Project1\codefinal\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Project1\codefinal\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Project1\codefinal\quanly\obj\Debug\quanly.csproj.Up2Date
+C:\Project1\codefinal\quanly\obj\Debug\quanly.exe
+C:\Project1\codefinal\quanly\obj\Debug\quanly.pdb

@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{79B4DB7E-9526-4129-9723-2A4CBC45ACEA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>quanly</RootNamespace>
+    <AssemblyName>quanly</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=9.0.0.4, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.9.0.4\lib\net462\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.4, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.9.0.4\lib\net462\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=9.0.0.4, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.9.0.4\lib\net462\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=9.0.0.4, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.9.0.4\lib\net462\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddnewAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddnewAdmin.Designer.cs">
+      <DependentUpon>AddnewAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddnewBlog1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddnewBlog1.Designer.cs">
+      <DependentUpon>AddnewBlog1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDetailForm.Designer.cs">
+      <DependentUpon>AdminDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlogDetailForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlogDetailForm1.Designer.cs">
+      <DependentUpon>BlogDetailForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlogDetailForm_trangchu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlogDetailForm_trangchu.Designer.cs">
+      <DependentUpon>BlogDetailForm_trangchu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditAdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditAdminForm.Designer.cs">
+      <DependentUpon>EditAdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditBlog1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBlog1.Designer.cs">
+      <DependentUpon>EditBlog1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\Quanlycauthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\Quanlycauthu.Designer.cs">
+      <DependentUpon>Quanlycauthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\Suacauthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\Suacauthu.Designer.cs">
+      <DependentUpon>Suacauthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\Themcauthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\Themcauthu.Designer.cs">
+      <DependentUpon>Themcauthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\Thongtinchitietcauthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\Thongtinchitietcauthu.Designer.cs">
+      <DependentUpon>Thongtinchitietcauthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\UCcauthu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="player\UCcauthu.Designer.cs">
+      <DependentUpon>UCcauthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\UCcauthu_trangchu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="player\UCcauthu_trangchu.Designer.cs">
+      <DependentUpon>UCcauthu_trangchu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\UC_Lichthidau_Player.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="player\UC_Lichthidau_Player.Designer.cs">
+      <DependentUpon>UC_Lichthidau_Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="quanlyadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quanlyadmin.Designer.cs">
+      <DependentUpon>quanlyadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="quanlybaibao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quanlybaibao.Designer.cs">
+      <DependentUpon>quanlybaibao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giaodienchinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giaodienchinh.Designer.cs">
+      <DependentUpon>giaodienchinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuquanly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuquanly.Designer.cs">
+      <DependentUpon>menuquanly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="schedule\AddnewSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="schedule\AddnewSchedule.Designer.cs">
+      <DependentUpon>AddnewSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="schedule\EditSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="schedule\EditSchedule.Designer.cs">
+      <DependentUpon>EditSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="schedule\FormQuanlylichthidau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="schedule\FormQuanlylichthidau.Designer.cs">
+      <DependentUpon>FormQuanlylichthidau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="schedule\FormTaoDoiHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="schedule\FormTaoDoiHinh.Designer.cs">
+      <DependentUpon>FormTaoDoiHinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="schedule\UC_Schedule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="schedule\UC_Schedule.Designer.cs">
+      <DependentUpon>UC_Schedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="schedule\Xemchitietdoihinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="schedule\Xemchitietdoihinh.Designer.cs">
+      <DependentUpon>Xemchitietdoihinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="schedule\XemchitietSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="schedule\XemchitietSchedule.Designer.cs">
+      <DependentUpon>XemchitietSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SessionManager.cs" />
+    <Compile Include="team\FormChitietdoibong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="team\FormChitietdoibong.Designer.cs">
+      <DependentUpon>FormChitietdoibong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="team\FormQuanLyDoiBong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="team\FormQuanLyDoiBong.Designer.cs">
+      <DependentUpon>FormQuanLyDoiBong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="team\FormSuaHoSoDoiBong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="team\FormSuaHoSoDoiBong.Designer.cs">
+      <DependentUpon>FormSuaHoSoDoiBong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="team\FormThemDoiBong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="team\FormThemDoiBong.Designer.cs">
+      <DependentUpon>FormThemDoiBong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="team\UCcauthu_doibong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="team\UCcauthu_doibong.Designer.cs">
+      <DependentUpon>UCcauthu_doibong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="team\UC_Club.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="team\UC_Club.Designer.cs">
+      <DependentUpon>UC_Club.cs</DependentUpon>
+    </Compile>
+    <Compile Include="team\UC_RankItem_doibong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="team\UC_RankItem_doibong.Designer.cs">
+      <DependentUpon>UC_RankItem_doibong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\FormBangXepHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tournament\FormBangXepHang.Designer.cs">
+      <DependentUpon>FormBangXepHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\FormQuanLyGiaiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tournament\FormQuanLyGiaiDau.Designer.cs">
+      <DependentUpon>FormQuanLyGiaiDau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\FormSuaHoSoGiaiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tournament\FormSuaHoSoGiaiDau.Designer.cs">
+      <DependentUpon>FormSuaHoSoGiaiDau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\FormTaoHoSoGiaiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tournament\FormTaoHoSoGiaiDau.Designer.cs">
+      <DependentUpon>FormTaoHoSoGiaiDau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\FormXemHoSoGiaiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tournament\FormXemHoSoGiaiDau.Designer.cs">
+      <DependentUpon>FormXemHoSoGiaiDau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\Lichthidau_giaidau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tournament\Lichthidau_giaidau.Designer.cs">
+      <DependentUpon>Lichthidau_giaidau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\NewFolder1\TeamItem.cs" />
+    <Compile Include="tournament\UCTournamentItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tournament\UCTournamentItem.Designer.cs">
+      <DependentUpon>UCTournamentItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\UCTournamentItem_trangchu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tournament\UCTournamentItem_trangchu.Designer.cs">
+      <DependentUpon>UCTournamentItem_trangchu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tournament\UC_RankItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tournament\UC_RankItem.Designer.cs">
+      <DependentUpon>UC_RankItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Admin.Designer.cs">
+      <DependentUpon>UC_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Blog1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Blog1.Designer.cs">
+      <DependentUpon>UC_Blog1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Blog_trangchu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Blog_trangchu.Designer.cs">
+      <DependentUpon>UC_Blog_trangchu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Dangnhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Dangnhap.Designer.cs">
+      <DependentUpon>UserControl_Dangnhap.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddnewAdmin.resx">
+      <DependentUpon>AddnewAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddnewBlog1.resx">
+      <DependentUpon>AddnewBlog1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDetailForm.resx">
+      <DependentUpon>AdminDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlogDetailForm1.resx">
+      <DependentUpon>BlogDetailForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlogDetailForm_trangchu.resx">
+      <DependentUpon>BlogDetailForm_trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditAdminForm.resx">
+      <DependentUpon>EditAdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBlog1.resx">
+      <DependentUpon>EditBlog1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\Quanlycauthu.resx">
+      <DependentUpon>Quanlycauthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\Suacauthu.resx">
+      <DependentUpon>Suacauthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\Themcauthu.resx">
+      <DependentUpon>Themcauthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\Thongtinchitietcauthu.resx">
+      <DependentUpon>Thongtinchitietcauthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\UCcauthu.resx">
+      <DependentUpon>UCcauthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\UCcauthu_trangchu.resx">
+      <DependentUpon>UCcauthu_trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\UC_Lichthidau_Player.resx">
+      <DependentUpon>UC_Lichthidau_Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quanlyadmin.resx">
+      <DependentUpon>quanlyadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quanlybaibao.resx">
+      <DependentUpon>quanlybaibao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giaodienchinh.resx">
+      <DependentUpon>giaodienchinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuquanly.resx">
+      <DependentUpon>menuquanly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="schedule\AddnewSchedule.resx">
+      <DependentUpon>AddnewSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="schedule\EditSchedule.resx">
+      <DependentUpon>EditSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="schedule\FormQuanlylichthidau.resx">
+      <DependentUpon>FormQuanlylichthidau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="schedule\FormTaoDoiHinh.resx">
+      <DependentUpon>FormTaoDoiHinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="schedule\UC_Schedule.resx">
+      <DependentUpon>UC_Schedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="schedule\Xemchitietdoihinh.resx">
+      <DependentUpon>Xemchitietdoihinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="schedule\XemchitietSchedule.resx">
+      <DependentUpon>XemchitietSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="team\FormChitietdoibong.resx">
+      <DependentUpon>FormChitietdoibong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="team\FormQuanLyDoiBong.resx">
+      <DependentUpon>FormQuanLyDoiBong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="team\FormSuaHoSoDoiBong.resx">
+      <DependentUpon>FormSuaHoSoDoiBong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="team\FormThemDoiBong.resx">
+      <DependentUpon>FormThemDoiBong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="team\UCcauthu_doibong.resx">
+      <DependentUpon>UCcauthu_doibong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="team\UC_Club.resx">
+      <DependentUpon>UC_Club.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="team\UC_RankItem_doibong.resx">
+      <DependentUpon>UC_RankItem_doibong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\FormBangXepHang.resx">
+      <DependentUpon>FormBangXepHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\FormQuanLyGiaiDau.resx">
+      <DependentUpon>FormQuanLyGiaiDau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\FormSuaHoSoGiaiDau.resx">
+      <DependentUpon>FormSuaHoSoGiaiDau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\FormTaoHoSoGiaiDau.resx">
+      <DependentUpon>FormTaoHoSoGiaiDau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\FormXemHoSoGiaiDau.resx">
+      <DependentUpon>FormXemHoSoGiaiDau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\Lichthidau_giaidau.resx">
+      <DependentUpon>Lichthidau_giaidau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\UCTournamentItem.resx">
+      <DependentUpon>UCTournamentItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\UCTournamentItem_trangchu.resx">
+      <DependentUpon>UCTournamentItem_trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tournament\UC_RankItem.resx">
+      <DependentUpon>UC_RankItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Admin.resx">
+      <DependentUpon>UC_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Blog1.resx">
+      <DependentUpon>UC_Blog1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Blog_trangchu.resx">
+      <DependentUpon>UC_Blog_trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_Dangnhap.resx">
+      <DependentUpon>UserControl_Dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trophy__2_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\world-cup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-image-with-black-background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hình nền.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-calendar-icon-schedule-week-agenda-png-image_4919395.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bb080110-fd4a-44ff-864b-407e5e244b99.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hình nền1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
